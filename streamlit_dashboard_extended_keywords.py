@@ -28,12 +28,12 @@ KEYWORDS = [
 SOURCES = {
     "Konrad-Adenauer-Stiftung": "https://www.kas.de/de/veranstaltungen",
     "BSI – Bundesamt für Sicherheit in der Informationstechnik": "https://www.bsi.bund.de/DE/Service/Veranstaltungen/veranstaltungen_node.html",
-    "https://negz.org/aktuelle-veranstaltungen/",
-    "https://www.bitkom.org/events#konferenzen", 
-    "https://shop.freiheit.org/", 
-    "https://www.fes.de/veranstaltungen", 
-    "https://calendar.boell.de/de/calendar/advancedsearch?f%5B0%5D=webseiten_zuordnung_des_termins%3A3617", 
-    "https://www.behoerden-spiegel.de/veranstaltungen/", 
+    "NEGZ": "https://negz.org/aktuelle-veranstaltungen/",
+    "BITKOM": "https://www.bitkom.org/events#konferenzen", 
+    "Friedrich-Naumann-Stiftung": "https://shop.freiheit.org/", 
+    "Friedrich-Ebert-Stiftung": "https://www.fes.de/veranstaltungen", 
+    "Heinrich-Böll-Stiftung": "https://calendar.boell.de/de/calendar/advancedsearch?f%5B0%5D=webseiten_zuordnung_des_termins%3A3617", 
+    "Behörden Spiegel": "https://www.behoerden-spiegel.de/veranstaltungen/", 
     
     # Weitere Quellen hier hinzufügen
 }
