@@ -10,6 +10,12 @@ KEYWORDS = ["digitale Identität", "eIDAS", "EUDI-Wallet"]
 URLS = [
     "https://www.kas.de/de/veranstaltungen",
     "https://www.bsi.bund.de/DE/Service/Veranstaltungen/veranstaltungen_node.html",
+    "https://negz.org/aktuelle-veranstaltungen/",
+    "https://www.bitkom.org/events#konferenzen", 
+    "https://shop.freiheit.org/", 
+    "https://www.fes.de/veranstaltungen", 
+    "https://calendar.boell.de/de/calendar/advancedsearch?f%5B0%5D=webseiten_zuordnung_des_termins%3A3617", 
+    "https://www.behoerden-spiegel.de/veranstaltungen/"
     # Weitere URLs können hier ergänzt werden
 ]
 
