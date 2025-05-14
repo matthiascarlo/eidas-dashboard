@@ -21,12 +21,20 @@ KEYWORDS = [
     "Verordnung (EU) 2024/1183",
     "wallet government services",
     "Verwaltungsdigitalisierung Identität",
-    "Behördenzugang EUDI Wallet"
+    "Behördenzugang EUDI Wallet",
+    "eIDAS"
 ]
 
 SOURCES = {
     "Konrad-Adenauer-Stiftung": "https://www.kas.de/de/veranstaltungen",
     "BSI – Bundesamt für Sicherheit in der Informationstechnik": "https://www.bsi.bund.de/DE/Service/Veranstaltungen/veranstaltungen_node.html",
+    "https://negz.org/aktuelle-veranstaltungen/",
+    "https://www.bitkom.org/events#konferenzen", 
+    "https://shop.freiheit.org/", 
+    "https://www.fes.de/veranstaltungen", 
+    "https://calendar.boell.de/de/calendar/advancedsearch?f%5B0%5D=webseiten_zuordnung_des_termins%3A3617", 
+    "https://www.behoerden-spiegel.de/veranstaltungen/", 
+    
     # Weitere Quellen hier hinzufügen
 }
 
