@@ -6,7 +6,26 @@ import re
 import smtplib
 from email.message import EmailMessage
 
-KEYWORDS = ["digitale Identität", "eIDAS", "EUDI-Wallet"]
+KEYWORDS = ["digitale Identität", "eIDAS", "EUDI-Wallet", "digitale Verwaltung Identität",
+    "digitaler Personalausweis EU",
+    "EUDI für Behörden",
+    "eIDAS für öffentliche Verwaltung",
+    "Interoperabilität digitale Identität",
+    "digitale Identität",
+    "digital identity",
+    "self-sovereign identity",
+    "SSI und eIDAS",
+    "digitale Brieftasche EU",
+    "Vertrauensdiensteanbieter",
+    "trust service provider",
+    "eID",
+    "elektronischer Identitätsnachweis EU",
+    "Verordnung (EU) 2024/1183",
+    "wallet government services",
+    "Verwaltungsdigitalisierung Identität",
+    "Behördenzugang EUDI Wallet",
+    "eIDAS"         
+           ]
 URLS = [
     "https://www.kas.de/de/veranstaltungen",
     "https://www.bsi.bund.de/DE/Service/Veranstaltungen/veranstaltungen_node.html",
